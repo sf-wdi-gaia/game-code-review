@@ -1,6 +1,26 @@
-### Game Code Review & Refactor
+# Game Code Review & Refactor
 
-Take a look at the three Game solutions.
+## Code Smells
+* Excessive Comments
+* Dead Code (e.g. commmented-out, or completely unused code)
+* Long Methods / Large Classes
+* Inconsistent Naming
+* Uncommunicative Naming
+* Long Parameter Lists
+* Inconsistent Interfaces
+* Duplicated code
+* Complex Conditionals
+* Combinitorial Explosion
+* Speculative Generality (aka "premature optimization")
+* Inappropriate Intimacy (aka "entangled code")
+
+Source: [List of Code Smells](https://blog.codinghorror.com/code-smells/)
+
+## Javascript Style Guide
+[Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
+
+## Code Review
+Take a look at the three Game solutions in this repo.
 
 - What did they do well?
     + Good style
