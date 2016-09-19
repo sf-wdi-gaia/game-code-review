@@ -11,7 +11,9 @@ In this module we will explore the concept of _style_ in programming:
 * [Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 
-**Exercise**: Take a moment to review your game code javascript. What style guide rules did you adhere to? Which rules did you break?
+**Exercise**: Take a moment to review your game code javascript.
+* What style guide rules did you adhere to?
+* Which rules did you break?
 
 
 ## Code Smells
@@ -32,7 +34,9 @@ In order to understand what _good_ code looks like, let's familiarize ourselves 
 
 > Source: [List of Code Smells](https://blog.codinghorror.com/code-smells/)
 
-**Exercise**: Take a moment to review your game code javascript. What style guide rules did you adhere to? Which rules did you break?
+**Exercise**: Take a moment to review your game code javascript.
+* What style guide rules did you adhere to?
+* Which rules did you break?
 
 ## Code Review
 On professional development teams it is common to go through a "code review" process before code is accepted/merged into the master branch. In this process, your colleagues will look closely at your code and try to find problems with it: Does it adhere to style guidelines? Does it work? Is it clear? Based on their feedback, you will be expected to revise and resubmit your code.
@@ -59,3 +63,13 @@ On professional development teams it is common to go through a "code review" pro
     - Overloading Functions
         + Accepts too many parameters (3 or fewer is best!)
         + Does too many things (could be broken down further)
+
+## Issue Creation
+For the remainder of this block, please create Github Issues for your game code.
+
+Please create at least one issue for the following categories:
+* Broken / Buggy Code
+* Style Guide Adherance
+* Code Smells
+
+Finally, try to close an issue!
