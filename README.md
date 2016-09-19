@@ -1,6 +1,22 @@
 # Game Code Review & Refactor
 
+In this module we will explore the concept of _style_ in programming:
+* **What does _Good Style_ look like in code?**
+* **What are programming _Best Practices_ and how do you recognize them?**
+
+## Style Guides
+
+> _The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you’re saying rather than on how you’re saying it._ -- Google HTML/CSS Style Guide
+
+* [Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+**Exercise**: Take a moment to review your game code javascript. What style guide rules did you adhere to? Which rules did you break?
+
+
 ## Code Smells
+In order to understand what _good_ code looks like, let's familiarize ourselves with some "anti-patterns" or "code smells" first. Here are some commmon "smells":
+
 * Excessive Comments
 * Dead Code (e.g. commmented-out, or completely unused code)
 * Long Methods / Large Classes
@@ -14,13 +30,14 @@
 * Speculative Generality (aka "premature optimization")
 * Inappropriate Intimacy (aka "entangled code")
 
-Source: [List of Code Smells](https://blog.codinghorror.com/code-smells/)
+> Source: [List of Code Smells](https://blog.codinghorror.com/code-smells/)
 
-## Javascript Style Guide
-[Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
+**Exercise**: Take a moment to review your game code javascript. What style guide rules did you adhere to? Which rules did you break?
 
 ## Code Review
-Take a look at the three Game solutions in this repo.
+On professional development teams it is common to go through a "code review" process before code is accepted/merged into the master branch. In this process, your colleagues will look closely at your code and try to find problems with it: Does it adhere to style guidelines? Does it work? Is it clear? Based on their feedback, you will be expected to revise and resubmit your code.
+
+**Exercise**: Take a look at the three Game solutions in this repo. Ask yourself the following questions:
 
 - What did they do well?
     + Good style
