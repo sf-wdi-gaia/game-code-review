@@ -8,7 +8,7 @@ In this module we will explore the concept of _style_ in programming:
 
 > _The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you’re saying rather than on how you’re saying it._ -- Google HTML/CSS Style Guide
 
-* [Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
+* [Airbnb ES5 Style Guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 
 **Exercise**: Take a moment to review your game code javascript.
